@@ -1,5 +1,5 @@
 # resume
-You can download a copy of my resume from this repository. 
+You can download a copy of [my resume](https://github.com/ajaybha/resume/blob/main/Ajay%20Bhandari%20-%20Engineering%20Leader.pdf) from this repository. 
 
 ## Background
 
